@@ -2,7 +2,7 @@
   I'm eflatuna, Front-End Developer :computer: 
   </br>
   <div>
-  <a href="https://harveycw.netlify.app/" target="_blank">
+  <a href="#" target="_blank">
 <kbd> <br> Personal Website <br> </kbd>
   </a>
   </div> 
