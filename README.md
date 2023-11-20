@@ -1,5 +1,5 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  I'm Harvey Watson, Front-End Developer :computer: 
+  I'm eflatuna, Front-End Developer :computer: 
   </br>
   <div>
   <a href="https://harveycw.netlify.app/" target="_blank">
@@ -48,7 +48,7 @@
   <img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" align="right" style="width:300px" />
  </p>
 <!--
-**HarveyCla/HarveyCla** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
+**eflatuna/eflatuna** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - :telescope: I'
 -->
