@@ -26,6 +26,8 @@
 		<tr>
 			<td width="50%">
 				<h3 align="center">The Weather App</h3>
+				<br/>
+				<br/>
 				<div align="center">  
 					<a href="https://the-weather-app-efla.netlify.app/" >
 						<img src="./img/2024-02-21_18-56.png" alt="project 1 target="_blank"" height="100%" />
