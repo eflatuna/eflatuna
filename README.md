@@ -71,7 +71,7 @@
                 <h3 align="center">Todo List</h3>
                 <div align="center">  
                     <a href='https://ttodolistt-1.netlify.app' target="_blank">
-                        <img src="sensor.png" alt="project 4" width="85%" height="40%" />
+                        <img src="./img/photo_2024-02-21_16-58-28.jpg" alt="project 4" width="85%" height="40%" />
                     </a>
                     <br>
                     <br>
