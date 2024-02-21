@@ -27,16 +27,16 @@
 			<td width="50%">
 				<h3 align="center">The Weather App</h3>
 				<div align="center">  
-					<a href='the-weather-app-efla.netlify.app' >
+					<a href="https://the-weather-app-efla.netlify.app/" >
 						<img src="./img/2024-02-21_18-56.png" alt="project 1 target="_blank"" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/mitp7/Surely_Insured" target="_blank">
+						<a href="https://github.com/eflatuna/The-Weather-App" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="the-weather-app-efla.netlify.app" target="_blank">
+						<a href="https://the-weather-app-efla.netlify.app/" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
