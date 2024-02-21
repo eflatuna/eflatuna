@@ -27,7 +27,6 @@
 			<td width="50%">
 				<h3 align="center">The Weather App</h3>
 				<br/>
-				<br/>
 				<div align="center">  
 					<a href="https://the-weather-app-efla.netlify.app/" >
 						<img src="./img/2024-02-21_20-43.png" alt="project 1 target="_blank"" height="100%" />
@@ -44,7 +43,6 @@
 					</p>
 					<p><strong>HTML, CSS, Javascript</strong></p>
           <p>
-            A tool for car insurance companies to leverage Geotab telematics and location data to make better data-driven insurance premium pricing decisions.
 					</p>
 				</div>
 			</td>
@@ -65,7 +63,7 @@
 						</a>	
 					</p>
 					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p> WeTown is a web application that lets users only interact with other users in their neighborhood. Allowing individuals to connect with those within their communities. </p>
+					<p> </p>
 				</div>
         </tr>
 	    <tr>
@@ -86,7 +84,7 @@
 						</a>
                     </p>
                     <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>A LIDAR prototype that maps out rooms by utilizing a time-of-flight sensor and a MSP432E401Y microcontroller programmed in C with the use of Keil µVision IDE.</p>
+		    <p></p>
                 </div>	
             </td>
             <td width="50%">
@@ -106,7 +104,7 @@
 						</a>
                     </p>
                     <p><strong>HTML, CSS, Sass</strong></p>
-		    <p>This is a rock, paper, and scissors game which I created to learn more about JavaScript and how to interact with components using DOM manipulation.</p>
+		    <p></p>
                 </div>
             </td>
         </tr>
@@ -128,7 +126,7 @@
 						</a>	
                     </p>
                     <p><strong>HTML, CSS, Bootsrap</strong></p>
-		    <p>Fylo is a web template that I created targeting companies that provide online cloud services. This is available for anyone to use and showcase their business.</p>
+		    <p></p>
                 </div>	
             </td>
         </tr>
