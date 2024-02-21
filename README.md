@@ -115,7 +115,7 @@
                 <h3 align="center">Bootstrap Project</h3>
                 <div align="center">  
                     <a href='https://bbootstrap-pro1.netlify.app' target="_blank">
-                        <img src="fylo_mockup.png" alt="project 4" height="100%" />
+                        <img src="./img/2024-02-21_20-25.png" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
