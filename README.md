@@ -1,54 +1,135 @@
-### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  I'm Esra, Front-End Developer :computer: 
-  </br>
-  <div>
-  <a href="#" target="_blank">
-<kbd> <br> Personal Website <br> </kbd>
-  </a>
-  </div> 
-<p align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
- </p>
+<h1> Hi! I'm Esra 👋</h1>
+<h2> Welcome to my profile! </h2> 
+
+<li> 💻 𝖨'𝗆 𝖥𝗋𝗈𝗇𝗍 𝖤𝗇𝖽 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
+<li> 🧠 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 React</li>
+<li> 😍 I love programming, books and cats </li>
+<li> :zap: I’m addicted to learning and growing every day</li>
+
+<br/>
+<h2>Language and Tools</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,bootstrap,tailwind,vscode,postman,github,linux,figma,&theme=dark&perline=5)](https://skillicons.dev)
+<br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=eflatuna&theme=chartreuse-dark" alt="my github stats" width="33%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eflatuna&theme=chartreuse-dark" alt="my commit status" width="33%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eflatuna&theme=chartreuse-dark&layout=compact" alt="languages" width="30%">
+<br/>
+
 </br>
+<h2 align="center">My Top Projects</h2>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=eflatuna&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eflatuna&hide=TeX&layout=compact) </br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eflatuna.eflatuna
 
-## Skills
-
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://styled-components.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" width="40" height="40" /></a>  
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" width="40" height="40"/></a> 
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="42" /></a>  
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>
-  <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  
-</p>
-      
-## Contact Me
-
-<p align="center">
-  <a href="https://google.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
-  <a href="mailto:esrabaskaya84@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="70" height="70"/></a>
-  <a href="#contact-me" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
-</p>
-
-<p align="right">
-  <img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" align="right" style="width:300px" />
- </p>
-<!--
-**eflatuna/eflatuna** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- :telescope: I'
--->
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center">The Weather App</h3>
+				<div align="center">  
+					<a href='https://devpost.com/software/surely-insured' >
+						<img src="surely_insured_mockup.png" alt="project 1 target="_blank"" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/mitp7/Surely_Insured" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://devpost.com/software/surely-insured" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>HTML, CSS, Javascript</strong></p>
+          <p>
+            A tool for car insurance companies to leverage Geotab telematics and location data to make better data-driven insurance premium pricing decisions.
+					</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center">Checkout Page</h3>
+				<div align="center" >  
+					<a href='https://checkout-page-bags.netlify.app' target="_blank">
+						<img src="./img/2024-02-21_16-05.png" alt="project 2" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/eflatuna/Checkout_Page_Project" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://checkout-page-bags.netlify.app" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+					</p>
+					 <p><strong>HTML, CSS, Javascript</strong></p>
+					<p> WeTown is a web application that lets users only interact with other users in their neighborhood. Allowing individuals to connect with those within their communities. </p>
+				</div>
+        </tr>
+	    <tr>
+            <td width="50%">
+                <h3 align="center">Todo List</h3>
+                <div align="center">  
+                    <a href='https://ttodolistt-1.netlify.app' target="_blank">
+                        <img src="sensor.png" alt="project 4" width="85%" height="40%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                       <a href="https://github.com/eflatuna/ToDo_List" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://ttodolistt-1.netlify.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>HTML, CSS, Javascript</strong></p>
+		    <p>A LIDAR prototype that maps out rooms by utilizing a time-of-flight sensor and a MSP432E401Y microcontroller programmed in C with the use of Keil µVision IDE.</p>
+                </div>	
+            </td>
+            <td width="50%">
+                <h3 align="center">SASS Project</h3>
+                <div align="center" >  
+                    <a href='https://mitp7rps.netlify.app/' target="_blank">
+                        <img src="rps_mockup.png" alt="project 3" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/mitp7/RockPaperScissor_Game" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://mitp7rps.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>HTML, CSS, Sass</strong></p>
+		    <p>This is a rock, paper, and scissors game which I created to learn more about JavaScript and how to interact with components using DOM manipulation.</p>
+                </div>
+            </td>
+        </tr>
+	    <tr>
+            <td width="50%">
+                <h3 align="center">Bootstrap Project</h3>
+                <div align="center">  
+                    <a href='https://bbootstrap-pro1.netlify.app' target="_blank">
+                        <img src="fylo_mockup.png" alt="project 4" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/eflatuna/Bootstrap_Project1" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://bbootstrap-pro1.netlify.app" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+                    </p>
+                    <p><strong>HTML, CSS, Bootsrap</strong></p>
+		    <p>Fylo is a web template that I created targeting companies that provide online cloud services. This is available for anyone to use and showcase their business.</p>
+                </div>	
+            </td>
+        </tr>
+	</table>
+</div>
+<br />
