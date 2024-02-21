@@ -92,16 +92,16 @@
             <td width="50%">
                 <h3 align="center">SASS Project</h3>
                 <div align="center" >  
-                    <a href='https://mitp7rps.netlify.app/' target="_blank">
+                    <a href='https://my-scss-project-efla.netlify.app/' target="_blank">
                         <img src="rps_mockup.png" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://github.com/mitp7/RockPaperScissor_Game" target="_blank">
+                        <a href="https://github.com/eflatuna/My_Scss_Project" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://mitp7rps.netlify.app/" target="_blank">
+						<a href="https://my-scss-project-efla.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
