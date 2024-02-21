@@ -28,7 +28,7 @@
 				<h3 align="center">The Weather App</h3>
 				<div align="center">  
 					<a href='the-weather-app-efla.netlify.app' >
-						<img src="surely_insured_mockup.png" alt="project 1 target="_blank"" height="100%" />
+						<img src="./img/2024-02-21_18-56.png" alt="project 1 target="_blank"" height="100%" />
 					</a>
 					<br>
 					<br>
