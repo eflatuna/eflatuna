@@ -27,7 +27,7 @@
 			<td width="50%">
 				<h3 align="center">The Weather App</h3>
 				<div align="center">  
-					<a href='https://devpost.com/software/surely-insured' >
+					<a href='the-weather-app-efla.netlify.app' >
 						<img src="surely_insured_mockup.png" alt="project 1 target="_blank"" height="100%" />
 					</a>
 					<br>
@@ -36,7 +36,7 @@
 						<a href="https://github.com/mitp7/Surely_Insured" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://devpost.com/software/surely-insured" target="_blank">
+						<a href="the-weather-app-efla.netlify.app" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
