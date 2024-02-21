@@ -30,10 +30,10 @@
 				<br/>
 				<div align="center">  
 					<a href="https://the-weather-app-efla.netlify.app/" >
-						<img src="./img/2024-02-21_18-56.png" alt="project 1 target="_blank"" height="100%" />
+						<img src="./img/2024-02-21_20-43.png" alt="project 1 target="_blank"" height="100%" />
 					</a>
-					<br>
-					<br>
+					<br/>
+					<br/>
 					<p>
 						<a href="https://github.com/eflatuna/The-Weather-App" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
