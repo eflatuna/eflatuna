@@ -93,7 +93,7 @@
                 <h3 align="center">SASS Project</h3>
                 <div align="center" >  
                     <a href='https://my-scss-project-efla.netlify.app/' target="_blank">
-                        <img src="rps_mockup.png" alt="project 3" height="100%" />
+                        <img src="./img/2024-02-21_20-38.png" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
