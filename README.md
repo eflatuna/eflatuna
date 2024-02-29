@@ -137,7 +137,7 @@
 				<h3 align="center">Horoscope</h3>
 				<div align="center" >  
 					<a href='https://horoscope-eflaa.netlify.app/' target="_blank">
-						<img src="./img/horoscope.png" alt="project 2" height="100%" />
+						<img src="./img/horoscope2.png" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
