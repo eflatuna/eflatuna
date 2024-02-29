@@ -108,49 +108,50 @@
                 </div>
             </td>
         </tr>
-	    <tr>
-            <td width="50%">
-                <h3 align="center">Bootstrap Project</h3>
-                <div align="center">  
-                    <a href='https://bbootstrap-pro1.netlify.app' target="_blank">
-                        <img src="./img/2024-02-21_20-25.png" alt="project 4" height="100%" />
-                    </a>
-                    <br>
-                    <br>
-                    <p>
-                        <a href="https://github.com/eflatuna/Bootstrap_Project1" target="_blank">
+	 
+
+<tr>
+			<td width="50%">
+				<h3 align="center">Bootstrap Project</h3>
+				<br/>
+				<div align="center">  
+					<a href="https://bbootstrap-pro1.netlify.app/" >
+						<img src="./img/2024-02-21_20-25.png" alt="project 1 target="_blank"" height="100%" />
+					</a>
+					<br/>
+					<br/>
+					<p>
+						<a href="https://github.com/eflatuna/Bootstrap_Project1" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://bbootstrap-pro1.netlify.app" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
-                    </p>
-                    <p><strong>HTML, CSS, Bootstrap</strong></p>
-		    <p></p>
-                </div>	
-            </td>
-        </tr>
-		 <tr>
-            <td width="50%">
-                <h3 align="center">Horoscope</h3>
-                <div align="center">  
-                    <a href='https://horoscope-eflaa.netlify.app/' target="_blank">
-                        <img src="./img/horoscope.png" alt="project 4" height="100%" />
-                    </a>
-                    <br>
-                    <br>
-                    <p>
-                        <a href="https://github.com/eflatuna/Horoscope" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>HTML, CSS, Javascript</strong></p>
+          <p>
+					</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center">Horoscope</h3>
+				<div align="center" >  
+					<a href='https://horoscope-eflaa.netlify.app/' target="_blank">
+						<img src="./img/horoscope.png" alt="project 2" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/eflatuna/Horoscope" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://horoscope-eflaa.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
-                    </p>
-                    <p><strong>HTML, CSS, REACT</strong></p>
-		    <p></p>
-                </div>	
-            </td>
+					</p>
+					 <p><strong>HTML, CSS, Javascript</strong></p>
+					<p> </p>
+				</div>
         </tr>
 	</table>
 </div>
