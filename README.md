@@ -30,19 +30,19 @@
 				<br/>
 				<div align="center">  
 					<a href="https://gs-legend.vercel.app/" >
-						<img src="./img/2024-02-21_20-25.png" alt="project 1 target="_blank"" height="100%" />
+						<img src="./img/gs-legend.png" alt="project 1 target="_blank"" height="100%" />
 					</a>
 					<br/>
 					<br/>
 					<p>
-						<a href="https://github.com/eflatuna/Bootstrap_Project1" target="_blank">
+						<a href="https://github.com/eflatuna/GS_Legend" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://bbootstrap-pro1.netlify.app" target="_blank">
+						<a href="https://gs-legend.vercel.app/" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, CSS, Javascript</strong></p>
+					<p><strong>HTML, CSS, REACT-Bootstrap </strong></p>
           <p>
 					</p>
 				</div>
