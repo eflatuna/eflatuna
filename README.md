@@ -50,9 +50,6 @@
 			<td width="50%">
 				<h3 align="center">Horoscope</h3>
                                  <br/>
-				<br/>
-				<br/>
-				<br/>
 				<div align="center" >  
 					<a href='https://horoscope-eflaa.netlify.app/' target="_blank">
 						<img src="./img/horoscope2.png" alt="project 2" height="100%" margin-bottom="30px" />
@@ -181,29 +178,6 @@
 					</p>
 				</div>
 			</td>
-			<td width="50%">
-				<h3 align="center">Horoscope</h3>
-                                 <br/>
-				<br/>
-				<br/>
-				<br/>
-				<div align="center" >  
-					<a href='https://horoscope-eflaa.netlify.app/' target="_blank">
-						<img src="./img/horoscope2.png" alt="project 2" height="100%" margin-bottom="30px" />
-					</a>
-					<br/>
-					<br/>
-					<p>
-						<a href="https://github.com/eflatuna/Horoscope" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://horoscope-eflaa.netlify.app/" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
-					</p>
-					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p> </p>
-				</div>
         </tr>
 	</table>
 </div>
