@@ -23,6 +23,54 @@
 
 <div align="center">
 	<table>
+	
+<tr>
+			<td width="50%">
+				<h3 align="center">GS Legend</h3>
+				<br/>
+				<div align="center">  
+					<a href="https://gs-legend.vercel.app/" >
+						<img src="./img/2024-02-21_20-25.png" alt="project 1 target="_blank"" height="100%" />
+					</a>
+					<br/>
+					<br/>
+					<p>
+						<a href="https://github.com/eflatuna/Bootstrap_Project1" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://bbootstrap-pro1.netlify.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>HTML, CSS, Javascript</strong></p>
+          <p>
+					</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center">Horoscope</h3>
+                                 <br/>
+				<br/>
+				<br/>
+				<br/>
+				<div align="center" >  
+					<a href='https://horoscope-eflaa.netlify.app/' target="_blank">
+						<img src="./img/horoscope2.png" alt="project 2" height="100%" margin-bottom="30px" />
+					</a>
+					<br/>
+					<br/>
+					<p>
+						<a href="https://github.com/eflatuna/Horoscope" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://horoscope-eflaa.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+					</p>
+					 <p><strong>HTML, CSS, Javascript</strong></p>
+					<p> </p>
+				</div>
+        </tr>	
 		<tr>
 			<td width="50%">
 				<h3 align="center">The Weather App</h3>
@@ -135,12 +183,16 @@
 			</td>
 			<td width="50%">
 				<h3 align="center">Horoscope</h3>
+                                 <br/>
+				<br/>
+				<br/>
+				<br/>
 				<div align="center" >  
 					<a href='https://horoscope-eflaa.netlify.app/' target="_blank">
-						<img src="./img/horoscope2.png" alt="project 2" height="100%" />
+						<img src="./img/horoscope2.png" alt="project 2" height="100%" margin-bottom="30px" />
 					</a>
-					<br>
-					<br>
+					<br/>
+					<br/>
 					<p>
 						<a href="https://github.com/eflatuna/Horoscope" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
