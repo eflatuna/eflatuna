@@ -23,6 +23,50 @@
 
 <div align="center">
 	<table>
+ <tr>
+			<td width="50%">
+				<h3 align="center">GS Legend</h3>
+				<br/>
+				<div align="center">  
+					<a href="https://gs-legend.vercel.app/" >
+						<img src="./img/gs-legend.png" alt="project 1 target="_blank"" height="100%" />
+					</a>
+					<br/>
+					<br/>
+					<p>
+						<a href="https://github.com/eflatuna/GS_Legend" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://gs-legend.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>HTML, CSS, REACT-Bootstrap </strong></p>
+          <p>
+					</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center">React-TODO</h3>
+                                 <br/>
+				<div align="center" >  
+					<a href='https://react-todo-app-efla.netlify.app/' target="_blank">
+						<img src="./img/horoscope2.png" alt="project 2" height="100%" margin-bottom="30px" />
+					</a>
+					<br/>
+					<br/>
+					<p>
+						<a href="https://github.com/eflatuna/Horoscope" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://horoscope-eflaa.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+					</p>
+					 <p><strong>HTML, CSS, React, SASS</strong></p>
+					<p> </p>
+				</div>
+        </tr>	
 	
 <tr>
 			<td width="50%">
