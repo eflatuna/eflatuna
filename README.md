@@ -63,7 +63,7 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>HTML, CSS, React, SASS</strong></p>
+					 <p><strong>HTML, CSS, React </strong></p>
 					<p> </p>
 				</div>
         </tr>	
