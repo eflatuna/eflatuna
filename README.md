@@ -51,15 +51,15 @@
                                  <br/>
 				<div align="center" >  
 					<a href='https://react-todo-app-efla.netlify.app/' target="_blank">
-						<img src="./img/horoscope2.png" alt="project 2" height="100%" margin-bottom="30px" />
+						<img src="./img/todo-app.png" alt="project 2" height="100%" margin-bottom="30px" />
 					</a>
 					<br/>
 					<br/>
 					<p>
-						<a href="https://github.com/eflatuna/Horoscope" target="_blank">
+						<a href="https://github.com/eflatuna/react_todo_app" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://horoscope-eflaa.netlify.app/" target="_blank">
+						<a href="https://react-todo-app-efla.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
