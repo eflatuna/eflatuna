@@ -29,7 +29,7 @@
 				<br/>
 				<div align="center">  
 					<a href="https://hospital-appointment-efla.netlify.app/" >
-						<img src="./img/hospital.png" alt="project 1 target="_blank"" height="100%" />
+						<img src="./img/hospital3..png" alt="project 1 target="_blank"" height="100%" />
 					</a>
 					<br/>
 					<br/>
