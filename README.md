@@ -29,12 +29,12 @@
 				<br/>
 				<div align="center">  
 					<a href="https://hospital-appointment-efla.netlify.app/" >
-						<img src="./img/gs-legend.png" alt="project 1 target="_blank"" height="100%" />
+						<img src="./img/hospital.png" alt="project 1 target="_blank"" height="100%" />
 					</a>
 					<br/>
 					<br/>
 					<p>
-						<a href="https://github.com/eflatuna/GS_Legend" target="_blank">
+						<a href="https://github.com/eflatuna/Hospital_Appointment" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://gs-legend.vercel.app/" target="_blank">
