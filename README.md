@@ -25,10 +25,10 @@
 	<table>
  <tr>
 			<td width="50%">
-				<h3 align="center">GS Legend</h3>
+				<h3 align="center">Hospital Appointment</h3>
 				<br/>
 				<div align="center">  
-					<a href="https://gs-legend.vercel.app/" >
+					<a href="https://hospital-appointment-efla.netlify.app/" >
 						<img src="./img/gs-legend.png" alt="project 1 target="_blank"" height="100%" />
 					</a>
 					<br/>
