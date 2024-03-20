@@ -45,8 +45,9 @@
 					</p>
 				</div>
 			</td>
+    </tr>	
   
-<td width="50%">
+ <tr><td width="50%">
 				<h3 align="center">Hospital Appointment</h3>
 				<br/>
 				<div align="center">  
