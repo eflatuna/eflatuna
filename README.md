@@ -33,7 +33,7 @@
 					<br/>
 					<br/>
 					<p>
-						<a href=https://github.com/eflatuna/Card_Project" target="_blank">
+						<a href="https://github.com/eflatuna/Card_Project" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://card-project-efla.netlify.app/" target="_blank">
