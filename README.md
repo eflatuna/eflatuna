@@ -28,7 +28,7 @@
 				<br/>
 				<div align="center">  
 					<a href="https://card-project-efla.netlify.app/" >
-						<img src="./card_project.png" alt="project 1 target="_blank"" height="100%" />
+						<img src="./img/card_project.png" alt="project 1 target="_blank"" height="100%" />
 					</a>
 					<br/>
 					<br/>
