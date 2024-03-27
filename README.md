@@ -45,6 +45,28 @@
 					</p>
 				</div>
 			</td>
+	 <td width="50%">
+				<h3 align="center">Recipe App</h3>
+				<br/>
+				<div align="center">  
+					<a href="https://recipeapp-taupe.vercel.app/" >
+						<img src="./img/hospital3..png" alt="project 1 target="_blank"" height="100%" />
+					</a>
+					<br/>
+					<br/>
+					<p>
+						<a href="https://github.com/eflatuna/Recipe_App" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://recipeapp-taupe.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>HTML, CSS, REACT  </strong></p>
+          <p>
+					</p>
+				</div>
+			</td>
     </tr>	
   
  <tr><td width="50%">
