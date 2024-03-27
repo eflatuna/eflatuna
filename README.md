@@ -50,7 +50,7 @@
 				<br/>
 				<div align="center">  
 					<a href="https://recipeapp-taupe.vercel.app/" >
-						<img src="./img/hospital3..png" alt="project 1 target="_blank"" height="100%" />
+						<img src="./img/recipe.png" alt="project 1 target="_blank"" height="100%" />
 					</a>
 					<br/>
 					<br/>
