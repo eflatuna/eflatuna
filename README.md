@@ -46,6 +46,53 @@
 				</div>
 			</td>
 	 <td width="50%">
+				<h3 align="center">Stock App</h3>
+				<br/>
+				<div align="center">  
+					<a href="https://stock-app.vercel.app/" >
+						<img src="./img/recipe.png" alt="project 1 target="_blank"" height="100%" />
+					</a>
+					<br/>
+					<br/>
+					<p>
+						<a href="https://github.com/eflatuna/Recipe_App" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://github.com/eflatuna/Stock_App" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>HTML, CSS, REACT  </strong></p>
+          <p>
+					</p>
+				</div>
+			</td>
+    </tr>	
+
+  
+ <tr> <td width="50%">
+				<h3 align="center">Shopping Card</h3>
+				<br/>
+				<div align="center">  
+					<a href="https://card-project-efla.netlify.app/" >
+						<img src="./img/card_project.png" alt="project 1 target="_blank"" height="100%" />
+					</a>
+					<br/>
+					<br/>
+					<p>
+						<a href="https://github.com/eflatuna/Card_Project" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://card-project-efla.netlify.app/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>HTML, CSS,Bootstrap, REACT  </strong></p>
+          <p>
+					</p>
+				</div>
+			</td>
+	 <td width="50%">
 				<h3 align="center">Recipe App</h3>
 				<br/>
 				<div align="center">  
