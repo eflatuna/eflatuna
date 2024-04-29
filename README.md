@@ -23,7 +23,7 @@
 
 <div align="center">
 	<table>
- <tr> <td width="50%">
+<!--  <tr> <td width="50%">
 				<h3 align="center">Shopping Card</h3>
 				<br/>
 				<div align="center">  
@@ -44,7 +44,7 @@
           <p>
 					</p>
 				</div>
-			</td>
+			</td> -->
 	 <td width="50%">
 				<h3 align="center">Stock App</h3>
 				<br/>
@@ -62,7 +62,7 @@
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, CSS, REACT  </strong></p>
+					<p><strong>Material UI,REACT.js,Redux </strong></p>
           <p>
 					</p>
 				</div>
