@@ -129,7 +129,7 @@
 						<a href="https://github.com/eflatuna/Hospital_Appointment" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://gs-legend.vercel.app/" target="_blank">
+						<a href="https://hospital-appointment-efla.netlify.app/" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
