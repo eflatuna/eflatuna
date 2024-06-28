@@ -40,7 +40,7 @@
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, CSS,Bootstrap, REACT  </strong></p>
+					<p><strong> REACT,NODE.JS,Express.js,MongoDB  </strong></p>
           <p>
 					</p>
 				</div>
