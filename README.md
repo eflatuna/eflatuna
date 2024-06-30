@@ -9,7 +9,7 @@
 <br/>
 <h2>Language and Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,bootstrap,tailwind,vscode,postman,github,linux,figma,node,express,mongodb&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,bootstrap,tailwind,vscode,postman,github,linux,figma,node.js,express.js,mongodb&theme=dark&perline=5)](https://skillicons.dev)
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=eflatuna&theme=chartreuse-dark" alt="my github stats" width="33%"/>
