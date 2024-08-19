@@ -23,7 +23,7 @@
 
 <div align="center">
 	<table>
- <tr> <td width="50%">
+		 <tr> <td width="50%">
 				<h3 align="center">Tutorial App</h3>
 				<br/>
 				<div align="center">  
@@ -41,6 +41,51 @@
 						</a>
 					</p>
 					<p><strong> REACT,NODE.JS,Express.js,MongoDB  </strong></p>
+          <p>
+					</p>
+				</div>
+			</td>
+	 <td width="50%">
+				<h3 align="center">Netflix</h3>
+				<br/>
+				<div align="center">  
+					<a href="https://netflix-two-gilt.vercel.app/" >
+						<img src="./img/netflix.png alt="project 1 target="_blank"" height="100%" />
+					</a>
+					<br/>
+					<br/>
+					<p>
+						<a href="https://github.com/eflatuna/netflix" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://netflix-two-gilt.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>Next.js,Tailwind,Redux </strong></p>
+          <p>
+					</p>
+				</div>
+			</td>
+    </tr>
+ <tr> <td width="50%">
+				<h3 align="center">/h3>
+				<br/>
+				<div align="center">  
+					<a href=" >
+<!-- 						<img src="./img/tutorial.png" alt="project 1 target="_blank"" height="100%" /> -->
+					</a>
+					<br/>
+					<br/>
+					<p>
+						<a href="" target="_blank">
+<!-- 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/> -->
+						</a>  
+						<a href="" target="_blank">
+<!--               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/> -->
+						</a>
+					</p>
+					<p><strong>   </strong></p>
           <p>
 					</p>
 				</div>
