@@ -1,7 +1,7 @@
 <h1> Hi! I'm Esra 👋</h1>
 <h2> Welcome to my profile! </h2> 
 
-<li> 💻 𝖨'𝗆 𝖥𝗋𝗈𝗇𝗍 𝖤𝗇𝖽 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
+<li> 💻 𝖨'𝗆 𝖥ull Stack Developer </li>
 <li> 🧠 My Team Project <a href="https://volunteerium.com/">Volunteerium </a> 
 </li>
 <li> 😍 I love programming, books and cats </li>
