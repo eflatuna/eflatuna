@@ -52,7 +52,7 @@
 				<br/>
 				<div align="center">  
 					<a href="https://mern-pos-application-client007.onrender.com/" >
-						<img src="./img/netflix1.png" alt="project 1 target="_blank"" height="100%" />
+						<img src="./img/pos_application.png" alt="project 1 target="_blank"" height="100%" />
 					</a>
 					<br/>
 					<br/>
