@@ -47,6 +47,28 @@
 					</p>
 				</div>
 			</td> -->
+			  <td width="50%">
+				<h3 align="center">Pos Application</h3>
+				<br/>
+				<div align="center">  
+					<a href="https://mern-pos-application-client007.onrender.com/" >
+						<img src="./img/netflix1.png" alt="project 1 target="_blank"" height="100%" />
+					</a>
+					<br/>
+					<br/>
+					<p>
+						<a href="https://github.com/eflatuna/mern_pos_application" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://mern-pos-application-client007.onrender.com/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>MERN Stack,AntDesign,Tailwind</strong></p>
+          <p>
+					</p>
+				</div>
+			</td>
 	 <td width="50%">
 				<h3 align="center">Netflix</h3>
 				<br/>
