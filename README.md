@@ -30,7 +30,7 @@
 				<br/>
 				<div align="center">  
 					<a href="https://tutorial-app-fawn.vercel.app/" >
-						<img src="./img/pos_application.png" alt="project 1 target="_blank"" height="100%" />
+						<img src="./img/tutorial.png" alt="project 1 target="_blank"" height="100%" />
 					</a>
 					<br/>
 					<br/>
